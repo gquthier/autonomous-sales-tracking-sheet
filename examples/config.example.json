@@ -1,0 +1,55 @@
+{
+  "timeZone": "Europe/Paris",
+  "monthTabs": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+
+  "team": {
+    "emailDomains": ["kinetic-agence.example"],
+    "firstNames": ["Camille", "Hugo"]
+  },
+  "minProspectSegments": 5,
+  "phoneDigits": 9,
+
+  "labels": {
+    "cancelled": "Cancelled",
+    "rescheduled": "Rescheduled",
+    "noShow": "No-Show",
+    "lost": "Offer & Didn't Buy",
+    "badFit": "Bad Fit & No Offer",
+    "followUp": "No Deposit & Follow-Up",
+    "fullPay": "Full-Pay",
+    "splitPay": "Split-Pay"
+  },
+
+  "sources": [
+    { "label": "Facebook", "source": "meta|facebook|instagram|^fb$|^ig$", "key": "fbclid" },
+    { "label": "Cold Call", "source": "^dialer$" },
+    { "label": "Cold Call", "any": "cold.?call|setter|phoning" },
+    { "label": "Email", "any": "e-?mail|instantly|lemlist|smartlead|newsletter" },
+    { "label": "Linkedin", "source": "linkedin" },
+    { "label": "YouTube", "source": "youtube" },
+    { "label": "Referral", "any": "referral|parrain" }
+  ],
+  "addSourceOptions": ["Cold Call"],
+  "extraColumns": [["Email", 190], ["Phone", 120], ["Website", 200], ["Meet Link", 210], ["Form Answers", 340]],
+
+  "crm": {
+    "fields": {
+      "email": "email",
+      "phone": "telephone",
+      "stage": ["etape"],
+      "lostReason": "raison_perte",
+      "amount": "montant",
+      "paymentMethod": "paiement"
+    },
+    "stages": {
+      "won": ["Signé"],
+      "noShow": ["Absent"],
+      "lost": ["Perdu"],
+      "badFit": ["Non qualifié"],
+      "followUp": ["Second appel", "Proposition envoyée", "Relance"]
+    },
+    "ignoreStages": ["Nouveau", "RDV pris"],
+    "badFitReasons": "bon client|qualif|not a fit|hors cible|hors zone",
+    "splitPayment": "split|plusieurs|echeanc|mensual|\\b\\d+ ?x\\b"
+  }
+}

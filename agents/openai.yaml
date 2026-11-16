@@ -1,0 +1,5 @@
+interface:
+  display_name: "Sales Tracking Sheet"
+  short_description: "Fill the sales tracking sheet from bookings, then No-Show and deal outcomes after each call"
+  brand_color: "#E9C48F"
+  default_prompt: "Use $sales-tracking-sheet to connect our booking calendars, call recorder and CRM to our sales tracking Google Sheet. Run the demo, then the check and a dry run on our real data before anything is written."

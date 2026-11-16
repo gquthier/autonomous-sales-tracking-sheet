@@ -1,0 +1,1028 @@
+{
+  "items": [
+    {
+      "recording_id": 9000,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-501",
+      "created_at": "2026-03-09T09:43:00.000Z",
+      "scheduled_start_time": "2026-03-09T09:00:00Z",
+      "recording_start_time": "2026-03-09T09:01:00.000Z",
+      "recording_end_time": "2026-03-09T09:39:00.000Z",
+      "meeting_url": "https://meet.google.com/atl-jmor-eau",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Julie Moreau",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Julie Moreau",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Julie Moreau",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Julie Moreau",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Julie Moreau",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Julie Moreau",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9001,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-502",
+      "created_at": "2026-03-09T14:36:00.000Z",
+      "scheduled_start_time": "2026-03-09T14:00:00Z",
+      "recording_start_time": "2026-03-09T14:02:00.000Z",
+      "recording_end_time": "2026-03-09T14:33:00.000Z",
+      "meeting_url": "https://zoom.example/j/123",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        },
+        {
+          "email": "karim@crossbox-nord.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Karim Benali",
+            "matched_calendar_invitee_email": "karim@crossbox-nord.example"
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Karim Benali",
+            "matched_calendar_invitee_email": "karim@crossbox-nord.example"
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Karim Benali",
+            "matched_calendar_invitee_email": "karim@crossbox-nord.example"
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Karim Benali",
+            "matched_calendar_invitee_email": "karim@crossbox-nord.example"
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Karim Benali",
+            "matched_calendar_invitee_email": "karim@crossbox-nord.example"
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Karim Benali",
+            "matched_calendar_invitee_email": "karim@crossbox-nord.example"
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9002,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-508",
+      "created_at": "2026-03-09T16:47:00.000Z",
+      "scheduled_start_time": "2026-03-09T16:00:00Z",
+      "recording_start_time": "2026-03-09T16:01:00.000Z",
+      "recording_end_time": "2026-03-09T16:43:00.000Z",
+      "meeting_url": "https://meet.google.com/mxg-mlef-evr",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Maxime Lefevre",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Maxime Lefevre",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Maxime Lefevre",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Maxime Lefevre",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Maxime Lefevre",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Maxime Lefevre",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9003,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-503",
+      "created_at": "2026-03-10T09:02:00.000Z",
+      "scheduled_start_time": "2026-03-10T08:30:00Z",
+      "recording_start_time": "2026-03-10T08:30:00.000Z",
+      "recording_end_time": "2026-03-10T08:57:00.000Z",
+      "meeting_url": "https://meet.google.com/sts-slau-ren",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Sophie Laurent",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Sophie Laurent",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Sophie Laurent",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Sophie Laurent",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Sophie Laurent",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Sophie Laurent",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9004,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-504",
+      "created_at": "2026-03-10T13:14:00.000Z",
+      "scheduled_start_time": "2026-03-10T13:00:00Z",
+      "recording_start_time": "2026-03-10T13:02:00.000Z",
+      "recording_end_time": "2026-03-10T13:11:00.000Z",
+      "meeting_url": "https://meet.google.com/grf-tgir-ard",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, vous m'entendez ?",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous attends sur le lien.",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous envoie un message.",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je patiente encore quelques minutes.",
+          "timestamp": "00:03:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9005,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-506",
+      "created_at": "2026-03-11T09:40:00.000Z",
+      "scheduled_start_time": "2026-03-11T09:00:00Z",
+      "recording_start_time": "2026-03-11T09:03:00.000Z",
+      "recording_end_time": "2026-03-11T09:38:00.000Z",
+      "meeting_url": "https://zoom.example/j/123",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lucas Petit",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lucas Petit",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lucas Petit",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lucas Petit",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lucas Petit",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lucas Petit",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9006,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-507",
+      "created_at": "2026-03-11T10:51:00.000Z",
+      "scheduled_start_time": "2026-03-11T10:00:00Z",
+      "recording_start_time": "2026-03-11T10:01:00.000Z",
+      "recording_end_time": "2026-03-11T10:47:00.000Z",
+      "meeting_url": "https://meet.google.com/rxw-erou-xxx",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Emma Roux",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Emma Roux",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Emma Roux",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Emma Roux",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Emma Roux",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Emma Roux",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9007,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-509",
+      "created_at": "2026-03-11T15:38:00.000Z",
+      "scheduled_start_time": "2026-03-11T15:00:00Z",
+      "recording_start_time": "2026-03-11T15:02:00.000Z",
+      "recording_end_time": "2026-03-11T15:35:00.000Z",
+      "meeting_url": "https://meet.google.com/blp-cbla-nca",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Chloe Blanc",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Chloe Blanc",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Chloe Blanc",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Chloe Blanc",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Chloe Blanc",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Chloe Blanc",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9008,
+      "title": "Appel découverte",
+      "share_url": "https://fathom.video/share/demo-511",
+      "created_at": "2026-03-12T17:05:00.000Z",
+      "scheduled_start_time": "2026-03-12T16:30:00Z",
+      "recording_start_time": "2026-03-12T16:31:00.000Z",
+      "recording_end_time": "2026-03-12T17:01:00.000Z",
+      "meeting_url": "https://meet.google.com/fng-lfon-tai",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Bonjour, merci d'être là.",
+          "timestamp": "00:00:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lea Fontaine",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Bonjour !",
+          "timestamp": "00:01:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Comment remplissez-vous vos cours aujourd'hui ?",
+          "timestamp": "00:02:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lea Fontaine",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Surtout le bouche-à-oreille.",
+          "timestamp": "00:03:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Combien d'essais gratuits par mois ?",
+          "timestamp": "00:04:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lea Fontaine",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Une quinzaine, pas plus.",
+          "timestamp": "00:05:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Je vous montre comment on procède.",
+          "timestamp": "00:06:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lea Fontaine",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "D'accord, je vois.",
+          "timestamp": "00:07:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "Voici les deux formules.",
+          "timestamp": "00:08:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lea Fontaine",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Et le délai pour les premiers essais ?",
+          "timestamp": "00:09:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Camille Roche",
+            "matched_calendar_invitee_email": "camille@kinetic-agence.example"
+          },
+          "text": "On se dit quoi pour la suite ?",
+          "timestamp": "00:10:00"
+        },
+        {
+          "speaker": {
+            "display_name": "Lea Fontaine",
+            "matched_calendar_invitee_email": ""
+          },
+          "text": "Je vous donne une réponse rapidement.",
+          "timestamp": "00:11:00"
+        }
+      ]
+    },
+    {
+      "recording_id": 9100,
+      "title": "Point équipe",
+      "share_url": "https://fathom.video/share/demo-team",
+      "created_at": "2026-03-11T13:40:00Z",
+      "recording_start_time": "2026-03-11T13:00:00Z",
+      "recording_end_time": "2026-03-11T13:30:00Z",
+      "meeting_url": "https://meet.google.com/tea-mmee-tin",
+      "recorded_by": {
+        "email": "camille@kinetic-agence.example",
+        "name": "Camille Roche"
+      },
+      "calendar_invitees": [
+        {
+          "email": "camille@kinetic-agence.example"
+        },
+        {
+          "email": "hugo@kinetic-agence.example"
+        }
+      ],
+      "transcript": [
+        {
+          "speaker": {
+            "display_name": "Hugo Martin",
+            "matched_calendar_invitee_email": "hugo@kinetic-agence.example"
+          },
+          "text": "On fait le point.",
+          "timestamp": "00:00:10"
+        }
+      ]
+    }
+  ],
+  "next_cursor": null
+}

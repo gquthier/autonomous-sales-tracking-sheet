@@ -1,0 +1,19 @@
+{
+  "name": "autonomous-sales-tracking-sheet",
+  "version": "1.0.0",
+  "description": "Bookings -> sales tracking Google Sheet, then No-Show and deal outcome 3 hours after each call, never over what a human typed",
+  "license": "MIT",
+  "private": true,
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "demo": "node scripts/run.js --demo",
+    "check": "node scripts/run.js --check",
+    "dry-run": "node scripts/run.js --dry-run",
+    "once": "node scripts/run.js --once"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
